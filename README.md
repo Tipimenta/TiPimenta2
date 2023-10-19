@@ -3,10 +3,11 @@
 -------
 
 ## Bacheral em Ciência da Computação
-## Tecnico em TI
 ## Aluno do SENAI
+## Jogando Horizon Zero Dawn
+## Assistindo FBI
 
 Em busca de transição para desenvolvedor Front End.
 
-FEITA ATIVIDADE DE FIXAÇÃO PARA AULA DE C#
+
 
